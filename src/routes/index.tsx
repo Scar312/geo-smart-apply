@@ -118,20 +118,9 @@ function Index() {
             href={DEFAULT_URL}
             target="_blank"
             rel="noopener noreferrer"
-            style={{
-              display: "inline-block",
-              padding: "14px 32px",
-              fontSize: "16px",
-              fontWeight: 500,
-              background: "#ffffff",
-              color: "#111111",
-              border: "1px solid #cccccc",
-              borderRadius: "10px",
-              textDecoration: "none",
-              cursor: "pointer",
-            }}
+            className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold text-xl px-12 py-6 rounded-2xl shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 animate-pulse-slow no-underline"
           >
-            Apply Here
+            APPLY NOW
           </a>
         </div>
       </section>
