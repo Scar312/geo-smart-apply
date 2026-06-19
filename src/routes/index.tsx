@@ -24,7 +24,7 @@ export const Route = createFileRoute("/")({
 });
 
 const DEFAULT_URL = "https://linkthem.net/aff_c?offer_id=3329&aff_id=16139";
-const GB_URL = "https://giftclick.org/aff_c?offer_id=4101&aff_id=16139";
+const GB_URL = "https://giftclick.org/aff_c?offer_id=1136&aff_id=16139";
 
 function Index() {
   useEffect(() => {
